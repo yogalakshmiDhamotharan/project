@@ -49,5 +49,5 @@ public class Email {
 		}
 		return new String(password);
 	}
-	
+	/*Check the project for the git hub dipository*/
 }
